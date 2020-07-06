@@ -19,6 +19,7 @@
 - Bootstrap and Css
 - Python 
 - Postgres
+- HTML for the mark up pages
 
 
 ## BDD
