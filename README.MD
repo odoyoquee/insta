@@ -4,7 +4,7 @@
 
 ## AUTHOR NAME
 
--Odoyo Grace Awino
+- Odoyo Grace Awino
 
 ## PROJECT DESCRIPTION
 
