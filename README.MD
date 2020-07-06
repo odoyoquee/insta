@@ -43,7 +43,7 @@
 
 ## GITHUB LIVE LINK
 
-# SUPPORT AND CONTACT DETAILS
+## SUPPORT AND CONTACT DETAILS
 > The application is an open-source product if you  want to improve it or in an event of a bug  contact this
 > Email:(odoyograce23@gmail.com) .
 
