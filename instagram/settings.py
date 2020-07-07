@@ -30,6 +30,12 @@ DEBUG = True
 
 ALLOWED_HOSTS = []
 
+UPLOADCARE={
+    'pub_key': 'demopublickey',
+    'secret': 'demoprivatekey'
+}
+
+
 
 # Application definition
 
