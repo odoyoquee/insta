@@ -44,6 +44,7 @@ INSTALLED_APPS = [
     'bootstrap4',
     'tinymce',
     'vote',
+    'pyuploadcare.dj'
 ]
 
 MIDDLEWARE = [
